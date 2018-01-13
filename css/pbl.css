@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#wrap{
+    position: relative;
+    width: 1200px;
+    margin: 700px auto;
+}
+.box{
+    float: left;
+    width: 227px;
+    border-radius: 8px;
+    padding: 25px;
+}
+.box .info{
+    padding: 14px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #666;
+}
+.box img{
+    width: 200px;
+    border-radius: 8px;
+}
+.box .title{
+    /*font-weight: bold;*/
+    text-align: center;
+    color:#969696;
+    padding:10px 0;
+}
